@@ -12,7 +12,7 @@ A [Paint.NET](http://www.getpaint.net) filetype plugin that adds support for loa
   Classic | C:\Program Files\Paint.NET\FileTypes    
   Microsoft Store | Documents\paint.net App Files\FileTypes
 
-3. Restart Paint.NET.
+3. Restart Paint.NET
 
 ## License
 
